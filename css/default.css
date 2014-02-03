@@ -1,0 +1,117 @@
+body {
+	background-color:		white ;
+	color:			black ;
+	margin-left:		10px ;
+	margin-right:		10px ;
+	margin-top:			10px ;
+	margin-bottom:		10px ;
+}
+
+h1,h2,h3,h4 {
+	color:			navy ;
+	font-family:		verdana, times, arial, courier ;
+	font-weight:		normal ;
+}
+
+h1 {
+	font-size:			30pt ;
+}
+
+h2 {
+	font-size:			18pt ;
+}
+
+h3 {
+	font-size:			14pt ;
+}
+
+h4 {
+	font-size:			12pt ;
+}
+
+a {
+	color:			navy ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			12pt ;
+	text-decoration:		none ;
+}
+
+a:link 	{ color: navy }
+a:visited	{ color: navy }
+a:active	{ color: navy }
+a:hover	{ color: red }
+
+a.BackToTop	{
+	font-size:			10pt ;
+}
+
+hr.Divider {
+	color:			red ;
+	width:			75% ;
+	height:			2px ;
+}
+
+th {
+	color:			navy ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			12pt ;
+	font-wieght:		bold ;
+}
+
+tr {
+	color:			black ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			10pt ;
+	font-wieght:		normal ;
+}
+
+p {
+	color:			black ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			10pt ;
+}
+
+ol,ul {
+	color:			navy ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			12pt ;
+}
+
+ul.disc	{list-style-type: disc}
+ul.circle	{list-style-type: circle}
+ul.square	{list-style-type: square}
+ul.none	{list-style-type: none}
+
+ol.disc	{list-style-type: disc}
+ol.circle	{list-style-type: circle}
+ol.square	{list-style-type: square}
+ol.none	{list-style-type: none}
+
+form.DropDown {
+	color:			navy ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			12pt ;
+	margin-left:		165px ;
+}
+
+span.NoData {
+	color:			black ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			10pt ;
+	margin-left:		20px ;
+
+}
+
+span.HighWatermark {
+	color:			navy ;
+	font-family:		verdana, times, arial, courier ;
+	font-size:			10pt ;
+	margin-left:		50px ;
+
+}
+
+pre.source_code {
+	color:			black ;
+	font-size:			10pt ;
+}
+
